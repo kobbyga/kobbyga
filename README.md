@@ -35,7 +35,7 @@ Henley Business School, University of Reading
 🌱 Currently learning: Interest rate risk modelling and Basel III/IV capital frameworks
 💬 Ask me about: Credit risk, quantitative finance, Excel modelling, or breaking into financial risk
 📫 Reach me at: kobby.akuoko@outlook.com
--->## Hi there 👋
+
 
 <!--
 **kobbyga/kobbyga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
