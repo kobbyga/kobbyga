@@ -3,12 +3,6 @@
 Henley Business School, University of Reading
 </h1>
 
-<p>
-  Aspiring financial risk professional with hands-on experience across credit risk modelling, market risk analysis, and time series econometric modelling. 
-  Currently completing an MSc in Financial Risk Management at Henley Business School (ICMA Centre Scholar). 
-  Passionate about building rigorous, model-driven frameworks that translate complex risk exposures into actionable insight.
-</p>
-
 ---
 
 <h2>📊 Risk & Quantitative Finance Projects</h2>
