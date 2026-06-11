@@ -12,7 +12,7 @@ Henley Business School, University of Reading
   - Monte Carlo simulation, rating transition matrices, recovery-rate modelling (beta distributions), correlation estimation, stress testing
 
 - <b>Time Series Modelling and Market Analysis</b>
-  - [Econometric models forecasting exchange rates and price levels using cointegration and Granger causality](https://github.com/KobbyAkuoko/time-series-market-analysis)
+  - [Econometric models forecasting exchange rates and price levels using cointegration and Granger causality](https://github.com/KobbyAkuoko/Time-Series-Market-Analysis)
   - Univariate and multivariate ARIMA/VAR models; macroeconomic driver analysis using Python (Statsmodels, Pandas)
 
 ---
