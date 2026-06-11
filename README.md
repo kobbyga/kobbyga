@@ -1,4 +1,47 @@
-## Hi there 👋
+<h1>Hi, I'm Kobby! <br/>
+<a href="https://www.linkedin.com/in/kobby-a-5a9267282/">MSc Financial Risk Management</a> | 
+Henley Business School, University of Reading
+</h1>
+
+<p>
+  Aspiring financial risk professional with hands-on experience across credit risk modelling, market risk analysis, and time series econometric modelling. 
+  Currently completing an MSc in Financial Risk Management at Henley Business School (ICMA Centre Scholar). 
+  Passionate about building rigorous, model-driven frameworks that translate complex risk exposures into actionable insight.
+</p>
+
+---
+
+<h2>📊 Risk & Quantitative Finance Projects</h2>
+
+- <b>Credit Portfolio Risk Modelling – CreditMetrics Framework</b>
+  - [End-to-end Excel model estimating EL, UL, Credit VaR and Expected Shortfall for a multi-name corporate portfolio](https://github.com/KobbyAkuoko/credit-portfolio-risk-creditmetrics)
+  - Monte Carlo simulation, rating transition matrices, recovery-rate modelling (beta distributions), correlation estimation, stress testing
+
+- <b>Time Series Modelling and Market Analysis</b>
+  - [Econometric models forecasting exchange rates and price levels using cointegration and Granger causality](https://github.com/KobbyAkuoko/time-series-market-analysis)
+  - Univariate and multivariate ARIMA/VAR models; macroeconomic driver analysis using Python (Statsmodels, Pandas)
+
+---
+
+<h2>🤳 Connect with me</h2>
+
+[<img align="left" alt="Kobby Akuoko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kobby Akuoko | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][email]
+
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/kobby-a-5a9267282/
+[email]: mailto:kobby.akuoko@outlook.com
+
+---
+
+<!--
+**KobbyAkuoko/KobbyAkuoko** is a ✨ special ✨ repository — its README.md appears on your GitHub profile.
+🔭 Currently working on: Extending my CreditMetrics model to a Gaussian copula framework in Python
+🌱 Currently learning: Interest rate risk modelling and Basel III/IV capital frameworks
+💬 Ask me about: Credit risk, quantitative finance, Excel modelling, or breaking into financial risk
+📫 Reach me at: kobby.akuoko@outlook.com
+-->## Hi there 👋
 
 <!--
 **kobbyga/kobbyga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
