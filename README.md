@@ -11,6 +11,10 @@ Henley Business School, University of Reading
   - [End-to-end Excel model estimating EL, UL, Credit VaR and Expected Shortfall for a multi-name corporate portfolio](https://github.com/kobbyga/Credit-Portfolio-Risk---Credit-Metrics)
   - Monte Carlo simulation, rating transition matrices, recovery-rate modelling (beta distributions), correlation estimation, stress testing
 
+- <b>Market Risk Modelling - Comparison of EWMA, GARCH and Student-t Value-at-Risk Models</b>
+  - [End-to-end Excel model for a four asset equity portfolio comparing three volatility-adaptive VaR models across three correlation scenarios](https://github.com/kobbyga/Market-Portfolio-Risk)
+  - EWMA Volatility, CAPM Beta Estimation, Student-t Distribution, Statistical Backtesting using Maximum Likelihood Estimation
+
 - <b>Time Series Modelling and Market Analysis</b>
   - [Econometric models forecasting exchange rates and price levels using cointegration and Granger causality](https://github.com/kobbyga/Time-Series-Market-Analysis)
   - Univariate and multivariate ARIMA/VAR models; macroeconomic driver analysis using Python (Statsmodels, Pandas)
