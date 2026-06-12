@@ -13,11 +13,15 @@ Henley Business School, University of Reading
 
 - <b>Market Risk Modelling - Comparison of EWMA, GARCH and Student-t Value-at-Risk Models</b>
   - [End-to-end Excel model for a four asset equity portfolio comparing three volatility-adaptive VaR models across three correlation scenarios](https://github.com/kobbyga/Market-Portfolio-Risk)
-  - EWMA Volatility, CAPM Beta Estimation, Student-t Distribution, Statistical Backtesting using Maximum Likelihood Estimation
+  - EWMA Volatility, CAPM beta estimation, student-t distribution, statistical backtesting using maximum likelihood estimation
 
 - <b>Time Series Modelling and Market Analysis</b>
   - [Econometric models forecasting exchange rates and price levels using cointegration and Granger causality](https://github.com/kobbyga/Time-Series-Market-Analysis)
   - Univariate and multivariate ARIMA/VAR models; macroeconomic driver analysis using Python (Statsmodels, Pandas)
+
+- <b>Derivatives Pricing and Strategy Analysis</b>
+  - [Derivative strategies covering four downside protection structures for an institutional client, and a pure dividend arbitrage trade on HSBC](https://github.com/kobbyga/Derivatives-Pricing-and-Strategies-Analysis)
+  - Monte Carlo simulation, risk neutral pricing, black scholes model, greeks analysis, dividend arbitrage
 
 ---
 
