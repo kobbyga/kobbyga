@@ -12,11 +12,11 @@ Henley Business School, University of Reading
   - Monte Carlo simulation, rating transition matrices, recovery-rate modelling (beta distributions), correlation estimation, stress testing
 
 - <b>Market Risk Modelling - Comparison of EWMA, GARCH and Student-t Value-at-Risk Models</b>
-  - [End-to-end Excel model for a four asset equity portfolio comparing three volatility-adaptive VaR models across three correlation scenarios](https://github.com/kobbyga/Market-Portfolio-Risk)
+  - [Compared three volatility-adaptive VaR models across three correlation scenarios for a four asset GBP equity portfolio](https://github.com/kobbyga/Market-Portfolio-Risk)
   - EWMA Volatility, CAPM beta estimation, student-t distribution, statistical backtesting using maximum likelihood estimation
 
 - <b>Time Series Modelling and Market Analysis</b>
-  - [Econometric models forecasting exchange rates and price levels using cointegration and Granger causality](https://github.com/kobbyga/Time-Series-Market-Analysis)
+  - [Compared DVAR and ARIMA out-of-sample forecasting accuracy over a 36-month horizon for UK and US price indexes](https://github.com/kobbyga/Time-Series-Market-Analysis)
   - Univariate and multivariate ARIMA/VAR models; macroeconomic driver analysis using Python (Statsmodels, Pandas)
 
 - <b>Derivatives Pricing and Strategy Analysis</b>
