@@ -9,19 +9,19 @@ Henley Business School, University of Reading
 
 - <b>Credit Portfolio Risk Modelling – CreditMetrics Framework</b>
   - [End-to-end Excel model estimating EL, UL, Credit VaR and Expected Shortfall for a multi-name corporate portfolio](https://github.com/kobbyga/Credit-Portfolio-Risk---Credit-Metrics)
-  - Monte Carlo simulation, rating transition matrices, recovery-rate modelling (beta distributions), correlation estimation, stress testing
+  - Monte Carlo simulation, Rating transition matrices, Recovery rate modelling (beta distribution), Asset correlation, Stress testing
 
 - <b>Market Risk Modelling - Comparison of EWMA, GARCH and Student-t Value-at-Risk Models</b>
   - [Compared three volatility-adaptive VaR models across three correlation scenarios for a four asset GBP equity portfolio](https://github.com/kobbyga/Market-Portfolio-Risk)
-  - EWMA Volatility, CAPM beta estimation, student-t distribution, statistical backtesting using maximum likelihood estimation
+  - EWMA, GARCH(1,1), CAPM beta estimation, Student-t MLE, Parametric VaR & ES, Kupiec LR test
 
 - <b>Time Series Modelling and Market Analysis</b>
   - [Compared DVAR and ARIMA out-of-sample forecasting accuracy over a 36-month horizon for UK and US price indexes](https://github.com/kobbyga/Time-Series-Market-Analysis)
-  - Univariate and multivariate ARIMA/VAR models; macroeconomic driver analysis using Python (Statsmodels, Pandas)
+  - VAR, ARIMA, AIC model selection, Diebold-Mariano test, ADF/KPSS unit root tests 
 
 - <b>Derivatives Pricing and Strategy Analysis</b>
   - [Derivative strategies covering four downside protection structures for an institutional client, and a pure dividend arbitrage trade on HSBC](https://github.com/kobbyga/Derivatives-Pricing-and-Strategies-Analysis)
-  - Monte Carlo simulation, risk neutral pricing, black scholes model, greeks analysis, dividend arbitrage
+  - Monte Carlo simulation, Risk-neutral pricing, Exotic options, Greeks analysis, Put-call parity, Dividend arbitrage
 
 ---
 
