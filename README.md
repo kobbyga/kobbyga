@@ -23,6 +23,9 @@ Henley Business School, University of Reading
   - [Derivative strategies covering four downside protection structures for an institutional client, and a pure dividend arbitrage trade on HSBC](https://github.com/kobbyga/Derivatives-Pricing-and-Strategies-Analysis)
   - Monte Carlo simulation, Risk-neutral pricing, Exotic options, Greeks analysis, Put-call parity, Dividend arbitrage
 
+- <b>Equity Market Dashboard – OHLCV Analytics & Visualisation</b>
+  - [Interactive Streamlit dashboard for exploring daily price/volume data across a five-stock US equity universe, built on an automated Alpha Vantage data pipeline](https://github.com/kobbyga/stock-dashboard)
+  - Moving averages, Daily return & volatility analysis, Candlestick/volume charting, SQLite data pipeline, Alpha Vantage API integration
 ---
 
 <h2>🤳 Connect with me</h2>
