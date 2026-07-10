@@ -8,7 +8,7 @@ Henley Business School, University of Reading
 <h2>📊 Risk & Quantitative Finance Projects</h2>
 
 - <b>Credit Portfolio Risk Modelling – CreditMetrics Framework</b>
-  - [End-to-end Excel model estimating EL, UL, Credit VaR and Expected Shortfall for a multi-name corporate portfolio](https://github.com/kobbyga/Credit-Portfolio-Risk---Credit-Metrics)
+  - [End-to-end Excel model estimating EL, UL, Credit VaR and Expected Shortfall for a multi-name corporate portfolio](https://github.com/kobbyga/creditmetrics-python)
   - Monte Carlo simulation, Rating transition matrices, Recovery rate modelling (beta distribution), Asset correlation, Stress testing
 
 - <b>Market Risk Modelling - Comparison of EWMA, GARCH and Student-t Value-at-Risk Models</b>
