@@ -1,31 +1,116 @@
-<h1>Hi, I'm Kobby! <br/>
+# <h1>Hi, I'm Kobby! <br/>
 <a href="https://www.linkedin.com/in/kobby-a-5a9267282/">MSc Financial Risk Management</a> | 
 Henley Business School, University of Reading
 </h1>
 
 ---
+I build analytical tools and financial models that combine credit risk, valuation, and market analytics. My projects focus on understanding how businesses behave under stress, how risk is priced, and how financial models support investment decision‑making.
 
-<h2>📊 Risk & Quantitative Finance Projects</h2>
+## <h2>📊 Risk & Quantitative Finance Projects</h2>
 
-- <b>Credit Portfolio Risk Modelling – CreditMetrics Framework</b>
-  - [End-to-end Excel model estimating EL, UL, Credit VaR and Expected Shortfall for a multi-name corporate portfolio](https://github.com/kobbyga/Credit-Portfolio-Risk---Credit-Metrics)
-  - Monte Carlo simulation, Rating transition matrices, Recovery rate modelling (beta distribution), Asset correlation, Stress testing
+### [Credit Portfolio Risk Modelling – CreditMetrics Framework](https://github.com/kobbyga/Credit-Portfolio-Risk---Credit-Metrics) 
 
-- <b>Market Risk Modelling - Comparison of EWMA, GARCH and Student-t Value-at-Risk Models</b>
-  - [Compared three volatility-adaptive VaR models across three correlation scenarios for a four asset GBP equity portfolio](https://github.com/kobbyga/Market-Portfolio-Risk)
-  - EWMA, GARCH(1,1), CAPM beta estimation, Student-t MLE, Parametric VaR & ES, Kupiec LR test
+Built an end‑to‑end Python model estimating Expected Loss, Unexpected Loss, Credit VaR, and Expected Shortfall for a multi‑name corporate portfolio.
 
-- <b>Time Series Modelling and Market Analysis</b>
-  - [Compared DVAR and ARIMA out-of-sample forecasting accuracy over a 36-month horizon for UK and US price indexes](https://github.com/kobbyga/Time-Series-Market-Analysis)
-  - VAR, ARIMA, AIC model selection, Diebold-Mariano test, ADF/KPSS unit root tests 
+**Key components:**
 
-- <b>Derivatives Pricing and Strategy Analysis</b>
-  - [Derivative strategies covering four downside protection structures for an institutional client, and a pure dividend arbitrage trade on HSBC](https://github.com/kobbyga/Derivatives-Pricing-and-Strategies-Analysis)
-  - Monte Carlo simulation, Risk-neutral pricing, Exotic options, Greeks analysis, Put-call parity, Dividend arbitrage
+Monte Carlo simulation
 
-- <b>Equity Market Dashboard – OHLCV Analytics & Visualisation</b>
-  - [Interactive Streamlit dashboard for exploring daily price/volume data across a five-stock US equity universe, built on an automated Alpha Vantage data pipeline](https://github.com/kobbyga/stock-dashboard)
-  - Moving averages, Daily return & volatility analysis, Candlestick/volume charting, SQLite data pipeline, Alpha Vantage API integration
+Rating transition matrices
+
+Beta‑distributed recovery modelling
+
+Asset correlation
+
+Stress testing
+
+**Why this matters for credit roles:**
+  
+Shows understanding of downside risk, loss distribution, and credit behaviour under stress — core to private credit underwriting.
+
+### [Market Risk Modelling - Comparison of EWMA, GARCH and Student-t Value-at-Risk Models](https://github.com/kobbyga/Market-Portfolio-Risk)</b>
+
+Evaluated three volatility‑adaptive VaR models across multiple correlation scenarios for a four‑asset GBP equity portfolio.
+
+**Techniques used:**
+
+EWMA
+
+GARCH(1,1)
+
+CAPM beta estimation
+
+Student‑t MLE
+
+Parametric VaR & ES
+
+Kupiec LR backtesting
+
+**Why this matters for credit roles:**  
+
+Demonstrates modelling discipline, scenario thinking, and understanding of tail risk — all relevant for leveraged credit.
+
+### [Time Series Modelling and Market Analysis](https://github.com/kobbyga/Time-Series-Market-Analysis)
+
+Compared out‑of‑sample forecasting accuracy over a 36‑month horizon.
+
+**Methods:**
+
+VAR
+
+ARIMA
+
+AIC model selection
+
+Diebold‑Mariano test
+
+ADF/KPSS unit root testing
+
+**Why this matters for credit roles:**
+
+Shows ability to analyse macro trends and build forecasting models — useful for assessing industry cyclicality and portfolio risk.
+
+### [Derivatives Pricing and Strategy Analysis](https://github.com/kobbyga/Derivatives-Pricing-and-Strategies-Analysis)
+
+Modelled four downside protection structures and a dividend arbitrage trade on HSBC.
+
+**Techniques:**
+
+Monte Carlo simulation
+
+Risk‑neutral pricing
+
+Exotic options
+
+Greeks analysis
+
+Put‑call parity
+
+Dividend arbitrage
+
+**Why this matters for credit roles:**
+
+Shows understanding of hedging, risk transfer, and structured products — relevant for credit funds using hedges or evaluating complex capital structures.
+
+### [Equity Market Dashboard – OHLCV Analytics & Visualisation](https://github.com/kobbyga/stock-dashboard)
+
+Built a dashboard for exploring daily price/volume data across a five‑stock US equity universe.
+
+**Features:**
+
+Moving averages
+
+Daily return & volatility analysis
+
+Candlestick + volume charting
+
+Automated SQLite data pipeline
+
+Alpha Vantage API integration
+
+**Why this matters for credit roles:**
+
+Demonstrates ability to build analytical tools, automate data pipelines, and visualise market behaviour — useful for monitoring portfolio companies and market conditions.
 ---
 
 <h2>🤳 Connect with me</h2>
