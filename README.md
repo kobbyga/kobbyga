@@ -111,6 +111,7 @@ Alpha Vantage API integration
 **Why this matters for credit roles:**
 
 Demonstrates ability to build analytical tools, automate data pipelines, and visualise market behaviour — useful for monitoring portfolio companies and market conditions.
+
 ---
 
 <h2>🤳 Connect with me</h2>
